@@ -24,15 +24,6 @@ in November 2026, App Store next).
 **Infra:** GitHub Actions, Docker, Render, Neon
 **Also:** Google Play Console, App Store Connect, app security hardening
 
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepak9587&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Deepak's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak9587&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
-[![GitHub streak](https://streak-stats.demolab.com?user=Deepak9587&hide_border=true&theme=transparent)](https://github.com/Deepak9587)
-
 ### 🌱 Learning
 Deeper Go, Postgres performance, and shipping indie apps to the stores.
 

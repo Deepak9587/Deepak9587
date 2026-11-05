@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Deepak 👋
 
-<!--
-**Deepak9587/Deepak9587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer who builds apps end to end: the app, the API behind it,
+and the pipeline that ships them. React Native by background, now building
+with **Flutter** and **Go**.
 
-Here are some ideas to get you started:
+### 🔭 Currently building: Leann
+A calm, fast workout tracker for Android and iOS (launching on Google Play
+in November 2026, App Store next).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Offline-first:** every set saves on the phone first (SQLite/Drift) and syncs in the background
+- **Smart logging:** weight suggestions rounded to your gym's plates, rest timer, programs, records and progress charts
+- **Go + PostgreSQL backend** with row-level security per user and Google/Apple sign-in
+- **Server-driven app control:** forced/optional updates, feature flags and notices without a release
+- **CI/CD:** staging and production environments, automatic migrations, smoke tests and tagged releases
+
+### 🛠️ Tech I work with
+**Mobile:** Flutter (Dart, Riverpod, Drift), React Native
+**Backend:** Go, PostgreSQL, REST APIs
+**Infra:** GitHub Actions, Docker, Render, Neon
+**Also:** Google Play Console, App Store Connect, app security hardening
+
+### 🌱 Learning
+Deeper Go, Postgres performance, and shipping indie apps to the stores.
+
+### 📫 Reach me
+deepakgurjar6205@gmail.com
